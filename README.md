@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 revising how fetch, merge and pull work with GITHUB
 
 for the tutor sake, typo correction
+
+we just created a readme-update branch for practicing sake
